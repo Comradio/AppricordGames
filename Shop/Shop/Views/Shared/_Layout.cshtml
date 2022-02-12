@@ -33,9 +33,9 @@
                 <a class="nav-link" href="/ShopCart/">Корзина</a>
               </li>
             </ul>
-            <form class="d-flex">
-              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-              <button class="btn btn-outline-success" type="submit">Search</button>
+            <form class="d-flex" asp-controller="Cars" asp-action="ListCars" method="get">
+                <input class="form-control me-3" type="search" name="searchString" placeholder="Найти"/>
+                <input class="btn btn-outline-success" type="submit" value="Найти" />
             </form>
           </div>
         </div>

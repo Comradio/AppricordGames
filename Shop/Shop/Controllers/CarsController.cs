@@ -21,7 +21,7 @@ namespace Shop.Controllers
 
         [Route("Cars/ListCars")]
         [Route("Cars/ListCars/{category}")]
-        public ViewResult ListCars(string category)
+        public ViewResult ListCars(string category, string searchString)
         {
             string _category = category;
             IEnumerable<Car> cars = null;
@@ -29,6 +29,7 @@ namespace Shop.Controllers
             if (string.IsNullOrEmpty(category))
             {
                 cars = _allCars.Cars.OrderBy(i => i.id);
+                currentCategory = "Все автомобили";
             }
             else
             {
@@ -44,13 +45,18 @@ namespace Shop.Controllers
                 currentCategory = cars.FirstOrDefault().Category.CategoryName;
 
             }
+
+            // Поиск по всем автомобилям или по категории
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                cars = cars.Where(i => i.Name.Contains(searchString));
+            }
+
             var carObject = new CarsListViewModel
             {
                 AllCars = cars,
                 CurrentCategory = currentCategory
             };
-
-            ViewBag.Title = "Страница с атомобилями";
 
             return View(carObject);
         }

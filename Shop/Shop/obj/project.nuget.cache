@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D7FmV/+uev6RCNkvIQEXhRWJNCP9FatHHlh+FXiDVVUKZTnCjR737bc50HP8ywdmLqMEvdbCWCDT18rgFKNbYQ==",
+  "dgSpecHash": "fJPHkQ23A9/RVWpZUS8WyPCDO18xZIv9G+j9rl4vw4q6u+GUeg6dS7tpi0LDEk4SdxzmG6vEpHlXTPeHW3F5Uw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\comra\\source\\repos\\Pets-projects\\.vs\\Pets-projects\\v17\\Shop\\Shop\\Shop.csproj",
+  "projectFilePath": "C:\\Users\\comra\\source\\repos\\Pets-projects\\Shop\\Shop\\Shop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\comra\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\comra\\.nuget\\packages\\json\\1.0.1\\json.1.0.1.nupkg.sha512",

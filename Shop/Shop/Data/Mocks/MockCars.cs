@@ -89,5 +89,10 @@ namespace Shop.Data.Mocks
         {
             throw new System.NotImplementedException();
         }
+
+        public IEnumerable<Car> GetCarsByCondition(string partOfCarName)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }
