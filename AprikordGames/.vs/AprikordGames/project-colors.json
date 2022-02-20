@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb934c7d-1882-474a-b6c7-817f65078d2b": {
+      "ProjectGuid": "eb934c7d-1882-474a-b6c7-817f65078d2b",
+      "DisplayName": "AprikordGames",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

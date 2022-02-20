@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\comra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\comra\\.nuget\\packages"
+    ]
+  }
+}
