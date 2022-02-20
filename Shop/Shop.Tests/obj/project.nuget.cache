@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W9aKZVMByQ51/MpaYoqtSqWViLjNtYFK8N0eXijXyQKAjpG7ErFKAsF2sZ2eAUA1c7Un28YxaxnIVOD13u3fow==",
+  "dgSpecHash": "nlk80raanIgS2CXwpp69pEG4F1m7OPfJMfOntA8AuVWh1EkUHjSsZPz97yp6lCsVU7oTD18c/sdappKP9COAvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\comra\\source\\repos\\Pets-projects\\Shop\\Shop.Tests\\Shop.Tests.csproj",
+  "projectFilePath": "C:\\Users\\comra\\source\\repos\\Pet-projects\\Shop\\Shop.Tests\\Shop.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\comra\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\comra\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

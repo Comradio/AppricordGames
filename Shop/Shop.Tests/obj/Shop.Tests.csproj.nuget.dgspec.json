@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\comra\\source\\repos\\Pets-projects\\Shop\\Shop.Tests\\Shop.Tests.csproj": {}
+    "C:\\Users\\comra\\source\\repos\\Pet-projects\\Shop\\Shop.Tests\\Shop.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\comra\\source\\repos\\Pets-projects\\Shop\\Shop.Tests\\Shop.Tests.csproj": {
+    "C:\\Users\\comra\\source\\repos\\Pet-projects\\Shop\\Shop.Tests\\Shop.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\comra\\source\\repos\\Pets-projects\\Shop\\Shop.Tests\\Shop.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\comra\\source\\repos\\Pet-projects\\Shop\\Shop.Tests\\Shop.Tests.csproj",
         "projectName": "Shop.Tests",
-        "projectPath": "C:\\Users\\comra\\source\\repos\\Pets-projects\\Shop\\Shop.Tests\\Shop.Tests.csproj",
+        "projectPath": "C:\\Users\\comra\\source\\repos\\Pet-projects\\Shop\\Shop.Tests\\Shop.Tests.csproj",
         "packagesPath": "C:\\Users\\comra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\comra\\source\\repos\\Pets-projects\\Shop\\Shop.Tests\\obj\\",
+        "outputPath": "C:\\Users\\comra\\source\\repos\\Pet-projects\\Shop\\Shop.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\comra\\AppData\\Roaming\\NuGet\\NuGet.Config",
