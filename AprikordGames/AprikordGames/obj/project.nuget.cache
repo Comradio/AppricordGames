@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CMSUTtlEuqJj1DAnH17OeZSvs8uQ2z8+bsdqpemOcDZnwtUL3Q820r9cF0XfkkjFWxF8G9bxpvrg1yfxoe8EfQ==",
+  "dgSpecHash": "NLuXk/oSLQGakPEOUUZYf53Y1SKH/BAu+oI/3qf+C/Af0hyCXSvFbFIa0FsN1nCJrNlekykeQUv/1bvJZPOlMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\comra\\source\\repos\\Pets-projects\\AprikordGames\\AprikordGames\\AprikordGames.csproj",
+  "projectFilePath": "C:\\Users\\comra\\source\\repos\\Pet-projects\\AprikordGames\\AprikordGames\\AprikordGames.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\comra\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\comra\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",

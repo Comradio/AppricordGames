@@ -6191,11 +6191,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\comra\\source\\repos\\Pets-projects\\AprikordGames\\AprikordGames\\AprikordGames.csproj",
+      "projectUniqueName": "C:\\Users\\comra\\source\\repos\\Pet-projects\\AprikordGames\\AprikordGames\\AprikordGames.csproj",
       "projectName": "AprikordGames",
-      "projectPath": "C:\\Users\\comra\\source\\repos\\Pets-projects\\AprikordGames\\AprikordGames\\AprikordGames.csproj",
+      "projectPath": "C:\\Users\\comra\\source\\repos\\Pet-projects\\AprikordGames\\AprikordGames\\AprikordGames.csproj",
       "packagesPath": "C:\\Users\\comra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\comra\\source\\repos\\Pets-projects\\AprikordGames\\AprikordGames\\obj\\",
+      "outputPath": "C:\\Users\\comra\\source\\repos\\Pet-projects\\AprikordGames\\AprikordGames\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\comra\\AppData\\Roaming\\NuGet\\NuGet.Config",
