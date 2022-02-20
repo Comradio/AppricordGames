@@ -62,6 +62,7 @@ namespace AprikordGames.Services
         public void UpdateGame(Game game)
         {
             var gameToUpdate = _context.Games
+                               .AsNoTracking()
                                .SingleOrDefault(p => p.Id == game.Id);
 
             if (gameToUpdate is null || game is null)
